@@ -24,7 +24,6 @@ This project is built using **React + React Router + React Query + Axios + Tailw
 - 💅 Tailwind CSS
 - 🔀 React Router DOM
 - 🌐 Axios
-- 🧪 React Query Devtools
 - 📦 JSONPlaceholder (fake REST API)
 
 ---
